@@ -10,4 +10,6 @@
 - Cyber Security
   * [Privacy Tools](https://www.privacytools.io/)
   * [Privacy Guides](https://www.privacyguides.org/)
+- Alternatif Arama Motoru
+  * [You.com](https://you.com) Özellikle geliştiriciler için üretilmiş bir arama motoru
  
