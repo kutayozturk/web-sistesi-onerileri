@@ -12,4 +12,5 @@
   * [Privacy Guides](https://www.privacyguides.org/)
 - Alternatif Arama Motoru
   * [You.com](https://you.com) Özellikle geliştiriciler için üretilmiş bir arama motoru
- 
+- CV Hazırlama  Sitesi
+  * [Flow CV](https://flowcv.com/) CV hazırlama sitesi
