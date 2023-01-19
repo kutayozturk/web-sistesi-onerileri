@@ -14,3 +14,7 @@
   * [You.com](https://you.com) Özellikle geliştiriciler için üretilmiş bir arama motoru
 - CV Hazırlama  Sitesi
   * [Flow CV](https://flowcv.com/) CV hazırlama sitesi
+
+## ASCII ART
+- [ASCII.co.uk](https://ascii.co.uk/)
+- [ASCII Art Farts](http://www.asciiartfarts.com/)
