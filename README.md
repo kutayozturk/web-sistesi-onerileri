@@ -14,6 +14,8 @@
   * [You.com](https://you.com) Özellikle geliştiriciler için üretilmiş bir arama motoru
 - CV Hazırlama  Sitesi
   * [Flow CV](https://flowcv.com/) CV hazırlama sitesi
+- İleri Seviye Windows
+  * [Sordum.Net](https://www.sordum.net/) Script'ler, vbs & bat dosyaları - Bir çok farklı yöntem vb. (Türkçe)
 
 ## ASCII ART
 - [ASCII.co.uk](https://ascii.co.uk/)
