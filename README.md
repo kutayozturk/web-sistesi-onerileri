@@ -17,6 +17,10 @@
 - İleri Seviye Windows
   * [Sordum.Net](https://www.sordum.net/) Makaleler, Script'ler, vbs & bat dosyaları, ipuçları - Bir çok farklı yöntem vb. (Türkçe)
   * [Sordum.Org](https://www.sordum.org/) Makaleler, Script'ler, vbs & bat dosyaları, ipuçları - Bir çok farklı yöntem vb. (İngilizce)
+- Takım Çalışması
+  * [Penpot](https://penpot.app/) Geliştiriciler için Figma Alternatifi
+
+  * 
 
 ## ASCII ART
 - [ASCII.co.uk](https://ascii.co.uk/)
